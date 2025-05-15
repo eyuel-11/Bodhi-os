@@ -24,5 +24,6 @@ cout << "Group ID of Owner: "<<file_info.st_gid<<endl;
 cout << "File Size (bytes): " << file_info.st_size << endl; cout << "Last Access Time:"<<file_info.st_atime<<endl;
 cout << "Last Modification Time: " << file_info.st_mtime << endl;
 
-close(fd); return 0;
+close(fd); 
+ return 0;
 }
