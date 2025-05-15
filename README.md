@@ -1,4 +1,4 @@
-Bodhi os installation   
+Bodhi os installation    
 This repository provides comprehensive guide on installing, configuring, and optimizing Bodhi OS. The document covers essential topics, including system requirements, step-by-step installation instructions, and practical troubleshooting and solutions. And also contributions, file support system, feedback, and suggestions for further enhancements.
 
 System call bodhi
